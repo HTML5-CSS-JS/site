@@ -6,3 +6,7 @@ body {
 pre {
   font-family: monospase;
 }
+.box {
+  color: #fff, #000
+  background-color: #ddd, #ddd
+}
